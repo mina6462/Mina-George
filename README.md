@@ -34,3 +34,4 @@
 ## 📫 Please feel free to reach out😀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mina%20George-blue?logo=linkedin)](https://www.linkedin.com/in/mina-george-b29a99217)
 [![Email](https://img.shields.io/badge/Email-mina.george6462%40gmail.com-red?logo=gmail)](mailto:mina.george6462@gmail.com)
+[![HandShake](https://app.joinhandshake.com/profiles/mina_g)
