@@ -20,13 +20,14 @@
 - 🔋 [Autonomous Radar-To-Vehicle Infrastructure](https://github.com/mina6462/autonomous_radar2vehicle_infrastructure) 
 - 💓 [Heart Rate GUI Simulator](https://github.com/mina6462/HeartRate_GUI_Simulator) 
 - 🏗️ [Elevator Controller FPGA]([#](https://github.com/mina6462/Elevator_Controller_FPGA) 
-- 🕹️ [Arduino Arcade Games](#) 
+- 🕹️ [Arduino Arcade Games](https://github.com/mina6462/Arduino_Arcade_Games) 
 ---
 
 ## 🏆 Highlights
 - 🎖️ Warrior Scholarship Recipient + Michigander Scholar
 - 📋 Dean's List: Fall 2025 - Winter 2026
 - 🤝 WSU IEEE | Robotics Club | Club Volleyball
+- 📚 IB Certificate Holder for HL Mathematics, Chemistry, and English & SL Physics and Business | ACT score: 31 | High School GPA: 4.0
 
 ---
 
