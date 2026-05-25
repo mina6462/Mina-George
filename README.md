@@ -17,7 +17,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🔋 [Autonomous Radar-To-Vehicle Infrastructure](#) 
+- 🔋 [Autonomous Radar-To-Vehicle Infrastructure](https://github.com/mina6462/autonomous_radar2vehicle_infrastructure) 
 - 💓 [Heart Rate GUI Simulator](#) 
 - 🏗️ [Elevator Controller FPGA](#) 
 - 🕹️ [Arduino Arcade Games](#) 
