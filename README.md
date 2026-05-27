@@ -2,7 +2,10 @@
 
 🎓 ECE Student @ Wayne State University | GPA: 3.9/4.0 | Dean's List Honoree
 🏢 Current EE Co-op @ DTE Energy | Former Hardware Lead @ WAT TechTown
-📍 Windsor, ON / Detroit, MI
+📍 Windsor, ON / Detroit, MI 
+
+⚡ **Current Favorite Hobbies:** Playing pickleball, downloading new books, and exploring new zip codes.
+
 
 ---
 
