@@ -4,7 +4,7 @@
 🏢 Current EE Co-op @ DTE Energy | Former Hardware Lead @ WAT TechTown
 📍 Windsor, ON / Detroit, MI 
 
-⚡ **Current Favorite Hobbies:** Playing pickleball, downloading new books, and exploring new zip codes.
+⚡ **Current Favorite Hobbies:** Playing pickleball, reading, and travelling
 
 
 ---
